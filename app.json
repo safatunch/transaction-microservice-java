@@ -1,0 +1,8 @@
+{
+  "name": "transaction-service",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
